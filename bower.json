@@ -1,9 +1,9 @@
 {
-  "name": "angular2-skeleton",
-  "description": "",
+  "name": "tap-room",
+  "description": "tap room app",
   "main": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/iantwilcox91/Tap-Room-App",
   "ignore": [
     "**/.*",
     "node_modules",

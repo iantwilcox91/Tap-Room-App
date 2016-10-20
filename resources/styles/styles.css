@@ -2,3 +2,7 @@ h1 {
   color: blue;
   text-align: center;
 }
+.hero-img{
+background-image: url("http://www.southernspirits.com/wp-content/uploads/2012/04/Craft-Beer1.jpeg");
+background-size: cover;
+}
